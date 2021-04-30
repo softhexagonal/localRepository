@@ -1,0 +1,2 @@
+# localRepository
+mongo,redis,kafka
